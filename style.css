@@ -52,8 +52,8 @@ main {
 }
 .rent {
     position: absolute;
-    width: 750px;
-    height: 349px;
+    width: 850px;
+    height: 380px;
     border: 7px solid yellow;
     box-sizing: border-box;
     animation: solidc 10s infinite;
