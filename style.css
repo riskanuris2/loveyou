@@ -51,7 +51,7 @@ main {
   }
 }
 .rent {
-    position: absolute;
+    position: fixed;
     width: 850px;
     height: 380px;
     border: 7px solid yellow;
