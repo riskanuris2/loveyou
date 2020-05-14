@@ -1,5 +1,5 @@
 const config = {
   host: "localhost", // default host
-  port: 5500 // default port
+  port: 3000 // default port
 };
 export default config;
