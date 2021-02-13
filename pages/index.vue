@@ -38,7 +38,7 @@
         class="vue-typed"
         :showCursor="false"
         :loop="true"
-        :strings="[greetings() + ', ' + nicknames + '! ^5000', 'I always wanted to tell you... ^2500', 'Nevermind! >///<']"
+        :strings="[greetings() + ', ' + nicknames + '! ^5000', 'jane Pengin tak omongne Nek Ketemu ^2500', 'But You Know....', 'Wes Pirang Tahun Dewe Cedak', 'I love you.', 'Gelem Gak Dadi Pacarku?']"
         :backDelay="500"
         :typeSpeed="100"
         :backSpeed="20"
